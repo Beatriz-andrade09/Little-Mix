@@ -1,0 +1,70 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #E4D8DC;
+}
+
+.mySlides {
+display: none;
+}
+
+
+#w3-titulo {
+  text-shadow: 1px 1px 2px blueviolet;
+  color: #FFE300;
+  font-weight: bold;
+}
+
+.w4-name{
+  color: #FF5F7E; 
+  font-weight: bold;
+}
+
+#w4-lm{
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #FF5F7E;
+}
+
+#band {
+  background-color: #FBFBFB;
+}
+
+#menu,  #navDemo{
+  background-color: #EADEDE;
+  color: #FF5F7E;
+  font-weight: bold;
+}
+
+
+#ingressos {
+  border-radius: 20px;
+  background-color: #FF5F7E;
+}
+
+.w3-content {
+  max-width:2000px;
+  margin-top:46px; 
+}
+
+.w3-medium {
+  color: white;
+  font-weight: initial;
+}
+
+#contact {
+  background-color: #FBFBFB;
+  
+}
+
+#albuns {
+  background-color: #FF5F7E;
+  color:white;
+}
+
+.w4-round{
+  border-radius: 5%;
+  width: 40%;
+}
+
+#footer a {
+  text-decoration: none;
+}
